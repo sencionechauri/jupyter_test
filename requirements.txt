@@ -1,3 +1,5 @@
 NumPy
 Pandas
 scikit-learn
+qtconsole
+pyqt
